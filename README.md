@@ -1,13 +1,12 @@
 <p align="center">
-<img src="https://api.netlify.com/api/v1/badges/011da457-9ec5-41a8-ae63-733574c63873/deploy-status"></img>
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/Doctor-wu/Wh04m1">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Doctor-wu/Wh04m1">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/unerrored/whoami">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/unerrored/whoami">
 </p>
 <p align="center">
-  <img src='./public/og.svg' height='180'/>
+  This is my personal <a href="http://qrexxed.me" target="_blank">website</a>
 </p>
 <p align="center">
-  This is my personal <a href="https://doctorwu.me" target="_blank">website</a>
+  This profile template originates from <a href="https://github.com/Doctor-wu/Wh04m1" target="_blank">Doctor Wu's profile</a>.
 </p>
 <p align="center">
   <b>License</b>
