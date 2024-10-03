@@ -15,7 +15,7 @@ I actually got into coding by movies, one of them which you can guess is &nbsp;<
  link="https://www.imdb.com/title/tt4158110/"
  name="Mr Robot"
  avatarUrl="https://i.pinimg.com/564x/37/17/d6/3717d6a414d8dc80186aa48cbd089804.jpg"
-/>, literally an inspiring movie, I then started to take Python courses to learn more. The rest of my experience is either from past scripts I read or something I learned recently. I would probably be interested in learning C++ or C# in the future!
+/>, literally an inspiring movie, I then started to take Python courses to learn more. The rest of my experience is either from past scripts I read or something I learned recently. I would probably be interested in learning {C++|https://cplusplus.com/} or {C#|https://learn.microsoft.com/en-us/dotnet/csharp/} in the future!
 
 I don't do anything else from programming. Probably going outside sometimes with my friends and my family. I'm not used much to the outside world.
 
