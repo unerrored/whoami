@@ -1,6 +1,6 @@
 ---
-title: Small blogs and tutorials
-description: This will be more about tutorials than blogs.
+title: Tutorials
+description: Just small tutorials.
 display: ''
 decorator: true
 ---
