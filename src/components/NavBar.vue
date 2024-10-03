@@ -24,30 +24,11 @@ const { y: scroll } = useWindowScroll()
       <div class="spacer" />
       <div class="right" print:op0>
         <RouterLink to="/posts" title="Blog">
-          <span class="lt-md:hidden">Blog</span>
+          <span class="lt-md:hidden">Tutorials</span>
           <div i-ri-article-line md:hidden />
         </RouterLink>
-        <!-- <RouterLink to="/projects" title="Projects">
-          <span class="lt-md:hidden">Projects</span>
-          <div i-ri-lightbulb-line class="md:hidden" />
-        </RouterLink>
-        <RouterLink to="/chat" title="Let's Chat">
-          <div i-ri-chat-1-line />
-        </RouterLink> -->
-        <RouterLink to="/sponsors-list" title="Sponsors">
-          <div i-ri-user-heart-line />
-        </RouterLink>
-        <RouterLink hidden md:inline-block to="/friends" title="Friends">
-          <div i-bi:people class="text-4.5 vertical--19%" />
-        </RouterLink>
-        <a href="https://twitter.com/Doctorwu666" target="_blank" title="Twitter">
-          <div i-ri-twitter-x-fill />
-        </a>
-        <a class="lt-md:hidden" href="https://github.com/Doctor-wu" target="_blank" title="GitHub">
+        <a class="lt-md:hidden" href="https://github.com/unerrored" target="_blank" title="GitHub">
           <div i-uil-github-alt />
-        </a>
-        <a href="/feed.xml" target="_blank" title="RSS" flex="~">
-          <div i-la-rss-square style="font-size:1.25rem; margin: 0 -0.125rem;" />
         </a>
         <ToggleTheme />
       </div>
