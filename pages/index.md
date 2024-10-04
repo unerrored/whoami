@@ -26,7 +26,7 @@ Find me on
 <p flex="~ gap-3 wrap" class="mt--2!">
   <a href="https://github.com/unerrored" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
    <a href="https://discord.com/" target="_blank"><span op75 i-simple-icons-discord /> Discord: @qrexxed</a>
-  <a href="https://www.youtube.com/qrexxed" target="_blank"><span op75 i-simple-icons-youtube /> YouTube</a>
+  <a href="https://www.youtube.com/@qrexxed" target="_blank"><span op75 i-simple-icons-youtube /> YouTube</a>
 </p>
 
 This site designs highly inspired by <PeopleWithAvatar
